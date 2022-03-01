@@ -1,0 +1,16 @@
+{
+    "name": "Sherlock",
+    "short_name": "Sherlock",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "A fanmade sherlock site",
+    "theme_color": "#2A3443",
+    "icons": [
+      {
+        "src": "./images/wdicon1.png",
+        "sizes": "600x600",
+        "type": "image/png"
+      }
+    ]
+  }
